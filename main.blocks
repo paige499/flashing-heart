@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="$NiDOo$*yghO;Utpetjt" x="-168" y="-87"></block><block type="pxt-on-start" id="#A~[CKMB}dI,uPYMwQnE" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id=",drG+X[dgJ;X7tj@[z4M"><field name="i">IconNames.SmallHeart</field><next><block type="device_show_leds" id="+xeF)~yGct;,;,9#4,}d"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="basic_show_icon" id="S!NBAV8n.37?=t~]C,Xm"><field name="i">IconNames.Heart</field><next><block type="controls_if" id="C$TxYqW:Yt!cDyMQ~[$%"><value name="IF0"><shadow type="logic_boolean" id="EdBloCg+@pD^4ze2oUsu"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="Ae7^;pCky6[}T8wJ[fp,"><value name="text"><shadow type="text" id=";evgvj@K_Uo[I7+xREI8"><field name="TEXT">Hello!</field></shadow></value></block></statement><next><block type="device_clear_display" id=")1owDKO_9(*zh2Y`:Tl}"></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="WEoiQ]nZGzKgVf(0mp2c" x="312" y="135"><field name="NAME">Button.A</field></block></xml>
